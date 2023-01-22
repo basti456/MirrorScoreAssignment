@@ -1,4 +1,10 @@
 # MirrorScoreAssignment
+
+This is a quiz app using MVVM Architecture and fetching the data through an API using Retrofit Library.
+
+![mvvm](https://user-images.githubusercontent.com/77157007/213919804-7a384730-d565-48b9-9d24-759a71bb6f5a.jpg)
+
+
 Demo video:- https://user-images.githubusercontent.com/77157007/213918148-ef8cfdf0-4c1b-4de3-8958-c11f0fdcce18.mp4
 
 SomeSnapshots:-
