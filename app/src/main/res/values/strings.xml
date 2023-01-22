@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Mirror Score Assignment</string>
+
+    <string-array name="Category">
+
+    </string-array>
+
+    <string-array name="Difficulty">
+
+    </string-array>
+
+
+</resources>
